@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "agenda:item/pre_diamond_dust"
+    }
+}

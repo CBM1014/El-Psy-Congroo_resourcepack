@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/prismarine_crystals"
+    },
+	"overrides":[
+	{"predicate":{"custom_model_data": 4},"model":"agenda:item/diamond_dust"}
+	]
+}
