@@ -1,0 +1,17 @@
+{
+  "agenda.reborn": {
+    "sounds": [
+      "agenda/reborn"
+    ]
+  },
+  "agenda.dying": {
+    "sounds": [
+      "agenda/dying"
+    ]
+  },
+  "agenda.secret": {
+    "sounds": [
+      "agenda/secret"
+    ]
+  }
+}
