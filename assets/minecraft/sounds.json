@@ -9,6 +9,36 @@
       "agenda/dying"
     ]
   },
+  "agenda.mayuri": {
+    "sounds": [
+      "agenda/mayuri"
+    ]
+  },
+  "agenda.poi": {
+    "sounds": [
+      "agenda/poi"
+    ]
+  },
+  "agenda.welcome": {
+    "sounds": [
+      "agenda/welcome"
+    ]
+  },
+  "agenda.welcome1": {
+    "sounds": [
+      "agenda/welcome1"
+    ]
+  },
+  "agenda.welcome2": {
+    "sounds": [
+      "agenda/welcome2"
+    ]
+  },
+  "agenda.firework": {
+    "sounds": [
+      "agenda/firework"
+    ]
+  },
   "agenda.secret": {
     "sounds": [
       "agenda/secret"
