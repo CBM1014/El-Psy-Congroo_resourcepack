@@ -1,7 +1,7 @@
 # El-Psy-Congroo resourcepack
 配合El-Psy-Congroo插件使用的资源包。
 
-此说明文件有一份英文版本，如果有需要，您可以阅读[README.md](https://github.com/CBM1014/El-Psy-Congroo_resourcepack/blob/master/README_ZH_CN.md)。
+此说明文件有一份英文版本，如果有需要，您可以阅读[README.md](https://github.com/CBM1014/El-Psy-Congroo_resourcepack/blob/master/README.md)。
 
 此资源包支持Minecraft 1.13.2 与 1.14(快照版)。
 
