@@ -19,6 +19,16 @@
       "agenda/poi"
     ]
   },
+  "agenda.nyanpass": {
+    "sounds": [
+      "agenda/nyanpass"
+    ]
+  },
+  "agenda.closing": {
+    "sounds": [
+      "agenda/closing"
+    ]
+  },
   "agenda.welcome": {
     "sounds": [
       "agenda/welcome"
