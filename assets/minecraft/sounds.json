@@ -4,6 +4,21 @@
       "agenda/reborn"
     ]
   },
+  "agenda.notice01": {
+    "sounds": [
+      "agenda/notice01"
+    ]
+  },
+  "agenda.notice02": {
+    "sounds": [
+      "agenda/notice02"
+    ]
+  },
+  "agenda.ring": {
+    "sounds": [
+      "agenda/ring"
+    ]
+  },
   "agenda.dying": {
     "sounds": [
       "agenda/dying"
